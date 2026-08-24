@@ -19,14 +19,14 @@
 ### 👑 Executive Profile Summary
 
 ```text
-Developer: Ashfakur Rahman
-Target Roles: Data Analyst | BI Analyst | Data Operations Analyst
-Degree: B.Sc. in Computer Science & Engineering (CSE) - Green University of Bangladesh
-Prior Experience: Frontend Developer (Dec 2025 – Aug 2026) | HTML, CSS, JavaScript, Liquid
-Core Analytics Stack: SQL, PostgreSQL, Python (Pandas, NumPy), Power BI, Tableau, Looker Studio, Excel
-Operations & Tools: Retool, RegEx, Statistical Analysis, Data Preprocessing, ETL Pipelines
-Profiles: Kaggle | LeetCode | GitHub
-Status: 🚀 Open for Data Analyst, BI Analyst & Data Operations Roles (Remote / On-Site)
+#### Developer: Ashfakur Rahman
+#### Target Roles: Data Analyst | BI Analyst | Data Operations Analyst
+#### Degree: B.Sc. in Computer Science & Engineering (CSE) - Green University of Bangladesh
+#### Prior Experience: Frontend Developer, Softvence Agency(Dec 2025 – Aug 2026) | HTML, CSS, JavaScript, Liquid
+#### Core Analytics Stack: SQL, PostgreSQL, Python (Pandas, NumPy), Power BI, Tableau, Looker Studio, Excel
+#### Operations & Tools: Retool, Regex, Statistical Analysis, Data Preprocessing, ETL Pipelines
+#### Profiles: Kaggle | LeetCode | GitHub | Portfolio
+#### Status: 🚀 Open for Data Analyst, BI Analyst & Data Operations Roles (Remote / On-Site)
 ```
 
 > *"Transforming complex raw data into actionable business intelligence, operational workflow automations, and executive dashboards."* Leveraging a background in **Frontend Development (HTML, CSS, JS, Liquid)** combined with advanced **SQL, Python, and BI analytics**, I bridge the gap between technical data engineering, internal tool ops (Retool), and high-impact business decision making.
