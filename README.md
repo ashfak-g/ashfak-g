@@ -151,9 +151,9 @@ Whether you have an opening for a **Data Analyst**, **BI Analyst**, or **Data Op
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashfak-ai/)
 [![Kaggle](https://img.shields.io/badge/KAGGLE_PROFILE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/your-username)
-[![LeetCode](https://img.shields.io/badge/LEETCODE_PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-username)
-[![Email](https://img.shields.io/badge/SEND_AN_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LEETCODE_PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/hsWMQHn8fD/)
+[![Email](https://img.shields.io/badge/SEND_AN_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashfakgub221@gmail.com)
 
 </div>
